@@ -1,0 +1,20 @@
+body
+{
+    background-color: goldenrod;
+}
+
+#score
+{
+    font-size: 25;
+    float:left
+}
+
+#timer
+{
+    font-size:25;
+    float:right;
+}
+#sketchtobedrawn
+{
+    color: yellow;
+}
